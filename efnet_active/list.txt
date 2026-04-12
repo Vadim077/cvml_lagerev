@@ -1,0 +1,70 @@
+1. 
+EfficientNet Loss: 0.5650
+AlexNet Loss     : 0.0000
+
+в кадре: итог
+EfficientNet : person     | Уверенность: 0.537 | Время: 0.1329s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0369s
+
+нет в кадре: итог
+EfficientNet : person     | Уверенность: 0.500 | Время: 0.0557s
+AlexNet      : no_person  | Уверенность: 0.000 | Время: 0.0337s
+
+закрыл лицо рукой:  итог
+EfficientNet : person     | Уверенность: 0.563 | Время: 0.0690s
+AlexNet      : person     | Уверенность: 0.992 | Время: 0.0340s
+
+
+2. 
+EfficientNet Loss: 0.5256
+AlexNet Loss     : 0.0000
+
+в кадре: итог
+EfficientNet : person     | Уверенность: 0.624 | Время: 0.0573s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0333s
+
+не в кадре:
+EfficientNet : person     | Уверенность: 0.515 | Время: 0.0560s
+AlexNet      : no_person  | Уверенность: 0.000 | Время: 0.0342s
+
+3. 
+EfficientNet Loss: 0.4788
+AlexNet Loss     : 0.0000
+
+в кадре:  итог
+EfficientNet : person     | Уверенность: 0.660 | Время: 0.0529s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0395s
+
+не в кадре: итог
+EfficientNet : no_person  | Уверенность: 0.428 | Время: 0.0593s
+AlexNet      : no_person  | Уверенность: 0.000 | Время: 0.0346s
+
+другой задний фон в кадре:
+EfficientNet : person     | Уверенность: 0.530 | Время: 0.0762s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0342s
+
+4.
+EfficientNet Loss: 0.4040
+AlexNet Loss     : 0.0000
+
+в кадре:
+EfficientNet : person     | Уверенность: 0.636 | Время: 0.0557s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0337s
+
+не в кадре:
+EfficientNet : no_person  | Уверенность: 0.307 | Время: 0.0566s
+AlexNet      : no_person  | Уверенность: 0.000 | Время: 0.0333s
+
+5.
+EfficientNet Loss: 0.3402
+AlexNet Loss     : 0.0000
+
+в кадре: итог
+EfficientNet : person     | Уверенность: 0.768 | Время: 0.0563s
+AlexNet      : person     | Уверенность: 1.000 | Время: 0.0331s
+
+в кадре закрыл лицо рукой:
+ итог
+EfficientNet : person     | Уверенность: 0.634 | Время: 0.0625s
+AlexNet      : no_person  | Уверенность: 0.035 | Время: 0.0362s
+
