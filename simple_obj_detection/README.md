@@ -13,3 +13,5 @@ apes_dataset_bg	12 эпох
 shapes_dataset_random	12
 <img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/6bc8dda2-a2f5-4e10-a28b-adee35173be8" />
 <img width="1536" height="762" alt="Figure_3 2" src="https://github.com/user-attachments/assets/ce3a0d55-dca1-4497-ad64-63ff904837c1" />
+
+Разница в результатах есть. Модель распознает фигуры. Однако на датасете random, точность заметно падает.
